@@ -1,9 +1,15 @@
 
 # Class on Aug 24
+   - Create a HuggingFace account at https://huggingface.co/
+       - search for organisations by name (fdac24) in the search bar on the hub. the name will appear under the “Organizations” section
+       - request to join fdac24 by clicking on the button shown in the screenshot below.
    - Create your github account 
       - fork repo students 
       - create your utid.md file providing your name and interests and what you want to get out of the course (**at least a full paragraph, see example**):
-        see per fdac24/students/README.md, and also [upload your
+        see per fdac24/students/README.md, and
+      - include your hugging face id like this on a separate line: hfh: Audris
+      - include your github id like this on a separate line: gh: audrism
+      - [upload your
         your public ssh key to your account on github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account}. Once done, please
 	  - submit a pull request to fdac24/students
    - Make sure you do it a day before the next class so we can start ready

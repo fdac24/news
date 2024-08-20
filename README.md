@@ -2,7 +2,8 @@
 # Class on Aug 24
    - Create a HuggingFace account at https://huggingface.co/
        - search for organisations by name (fdac24) in the search bar on the hub. the name will appear under the “Organizations” section
-       - request to join fdac24 by clicking on the button shown in the screenshot below.
+       - request to join fdac24 by clicking on the button shown in the screenshot below or
+       - [here](https://huggingface.co/organizations/fdac24/share/ebNXzPATmClCxGjbxQKIdQBDQxBQjERcOV)
    - Create your github account 
       - fork repo students 
       - create your utid.md file providing your name and interests and what you want to get out of the course (**at least a full paragraph, see example**):

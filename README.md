@@ -16,7 +16,7 @@ engineering)
  - [Magic of Internet](https://github.com/fdac24/lectures/blob/master/magic.pdf)
 
 # Class on Aug 22
- - 88 registered for the class, but only 80 have submitted PR: see instructions for
+ - Only 62 have created forks and 49 PRs so far: see instructions for
     the previous class
  - Please accept your [invitation to fdac24 organization](https://github.com/orgs/fdac24) while logged in to GH via handle you used to submit 
 pull request

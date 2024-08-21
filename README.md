@@ -1,16 +1,11 @@
 # Class on Aug 27
- - [Follow instructions to make sure your ssh is set up to connect to your docker container](https://github.com/fdac24/news/blob/master/Prelim
-inary.md)
+ - [Follow instructions to make sure your ssh is set up to connect to your docker container](https://github.com/fdac24/news/blob/master/Preliminary.md)
  - Work on fdac24/Practice0: due before class on Sep 7
     - It involves 
       - forking
-      - ssh and clone to your docker container
-      - rename the notebook on your container
-      - completing notebook in your browser (while connected to yor container)
-      - adding/commiting/pushing from your container
+      - completing notebook in your browser 
       - creating pull request from your fork
-   - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-
-engineering)
+   - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
  - [Critical Tools](https://github.com/fdac24/lectures/blob/master/tools.pdf)
  - [Version Control](https://github.com/fdac24/lectures/blob/master/version_control-FDAC.pdf)
  - [Magic of Internet](https://github.com/fdac24/lectures/blob/master/magic.pdf)
@@ -18,8 +13,7 @@ engineering)
 # Class on Aug 22
  - Only 62 have created forks and 49 PRs so far: see instructions for
     the previous class
- - Please accept your [invitation to fdac24 organization](https://github.com/orgs/fdac24) while logged in to GH via handle you used to submit 
-pull request
+ - Please accept your [invitation to fdac24 organization](https://github.com/orgs/fdac24) while logged in to GH via handle you used to submit pull request
  - If you have not done so yet, please accept github fdac24 invitation
  - [Introductory lecture](https://github.com/fdac24/lectures/blob/master/prelim.pdf)
  - [Critical Tools](https://github.com/fdac24/lectures/blob/master/tools.pdf)

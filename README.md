@@ -10,8 +10,7 @@
  - [Magic of Internet](https://github.com/fdac24/lectures/blob/master/magic.pdf)
 
 # Class on Aug 22
- - Only 62 have created forks and 49 PRs so far: see instructions for
-    the previous class
+ - Only 72 (of 94 registered) have created forks so far: see instructions for the previous class
  - Please accept your [invitation to fdac24 organization](https://github.com/orgs/fdac24) while logged in to GH via handle you used to submit pull request
  - If you have not done so yet, please accept github fdac24 invitation
  - [Introductory lecture](https://github.com/fdac24/lectures/blob/master/prelim.pdf)

@@ -1,5 +1,5 @@
 # Class on Aug 27
- - [Follow instructions to make sure your ssh is set up to connect to your docker container](https://github.com/fdac24/news/blob/master/Preliminary.md)
+ - [Follow instructions](https://github.com/fdac24/news/blob/master/Preliminary.md)
  - Work on fdac24/Practice0: due before class on Sep 7
     - It involves 
       - forking

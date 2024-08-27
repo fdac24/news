@@ -1,3 +1,10 @@
+# Class on Aug 29
+ - See the simple [text analysis](https://github.com/fdac24/students/blob/master/TeamingAnalysis.ipynb) of your descriptions
+ - Introducing the MiniProject1 process and template
+ - Think about selecting the course project (see course projects
+   for the last eight years at fdac2[0-3], fdac1[6-9], fdac for inspiration)
+ - Boasters for class project (if you have an idea for the class   project, please commit to fdac24/FinalProjectPitches)
+
 # Class on Aug 27
  - Work on fdac24/Practice0: due before class on Sep 7
     - It involves 

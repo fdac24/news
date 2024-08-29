@@ -11,6 +11,27 @@
  - Boasters for class project
  - World of Code dataset
 
+# Groups for MP1
+
+
+1. harshvar mzg857 rking61 vgopu cwoodfil jleuciu1 
+1. aking100 amcclu13 ckornega dhodge12 jaugust4 
+1. san6 cvy221 snidiff1 sdasari7 slavey 
+1. awarden9 jburns46 ehechmer glee30 zyr546 amarlow6 
+1. edayney cstefani npatton4 ccotturo jchoi38 dmoffit1 
+1. lscott32 bmaples6 cwalsh25 mdv623 calle102 sgray38 
+1. pmasani tvillarr dpate139 nvanflee thatngu1 aweis3 
+1. mherna21 smoparth monim mwebb51 wwinslad 
+1. ygaikwad dferrer1 aroman vbroda bmilstea emaness 
+1. kchmayss ibhandar jtayl219 glapham mkelle37 
+1. ccanonac fgholamr pmoore34 btolson1 jmuncy2 cwitt8 
+1. pkx959 spatil12 gpatel8 jkutbay marifova 
+1. mmccor23 dfranke2 ddelrosa ezhao1 yarddoga 
+1. alecfowl ncoffey3 mmarcu10 tcatunca wduff 
+1. knguye34 rlin8 rfranqui yhg461 dwang58 fchernow 
+1. jnd547 bfitzpa8 lhunte21 jclar166 hchen73 
+1. jhenley9 ehead3 sbandar1 amuell11 jkenne60
+
 # Class on Aug 29
  - See the simple [text analysis](https://github.com/fdac24/students/blob/master/TeamingAnalysis.ipynb) of your descriptions
  - Introducing the MiniProject1 process and template

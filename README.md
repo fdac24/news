@@ -1,3 +1,16 @@
+# Class on Sep 5
+ - Work on MP1, including discussing with your assigned peer
+ - Make sure you have
+  
+  a. Forked fdac23/Miniproject1
+  b. Posted the idea for your analysis on your peer's fork
+  c. Responded to the idea that was posted by your peer
+
+# Class on Sep 3
+ - Question regarding MP1
+ - Boasters for class project
+ - World of Code dataset
+
 # Class on Aug 29
  - See the simple [text analysis](https://github.com/fdac24/students/blob/master/TeamingAnalysis.ipynb) of your descriptions
  - Introducing the MiniProject1 process and template

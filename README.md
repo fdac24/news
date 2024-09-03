@@ -27,7 +27,7 @@
 1. ccanonac fgholamr pmoore34 btolson1 jmuncy2 cwitt8 
 1. pkx959 spatil12 gpatel8 jkutbay marifova 
 1. mmccor23 dfranke2 ddelrosa ezhao1 yarddoga 
-1. alecfowl ncoffey3 mmarcu10 tcatunca wduff 
+1. ncoffey3 mmarcu10 tcatunca wduff 
 1. knguye34 rlin8 rfranqui yhg461 dwang58 fchernow 
 1. jnd547 bfitzpa8 lhunte21 jclar166 hchen73 
 1. jhenley9 ehead3 sbandar1 amuell11 jkenne60

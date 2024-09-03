@@ -82,7 +82,7 @@
 
    - Join from dial-in phone line: (Note: these are NOT toll-free numbers); Dial: +1 646 558 8656 or +1 408 638 0968  Meeting ID: 276 644 8345;  Participant ID: Shown after joining the meeting; International numbers available: https://tennessee.zoom.us/zoomconference?m=leg4C6yjhpfGHE-_Q9EYRNHXCUMBC-2T
 
- - Join the Discord server from this [link]() and follow the instructions
+ - Join the Discord server from this [link](https://discord.gg/pWtqPT5WaF)
 
 
 # Syllabus for "Fundamentals of Digital Archeology"

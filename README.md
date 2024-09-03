@@ -1,7 +1,6 @@
 # Class on Sep 5
  - Work on MP1, including discussing with your assigned peer
  - Make sure you have
-  
     a. Forked fdac23/Miniproject1
     b. Posted the idea for your analysis on your peer's fork
     c. Responded to the idea that was posted by your peer

@@ -1,3 +1,37 @@
+# Class on Oct 3
+ - Finish FP Proposal, [see instructions](https://github.com/fdac24/FinalProjectPitches/blob/master/README.md)
+
+# Class on Oct 1
+ - Work om class project proposal
+
+# Class on Sep 26
+ - Work om class project proposal
+
+# Class on Sep 24
+ - Finish/Questions on project proposal
+
+# Class on Sep 19
+ - Data discovery
+ - Data storage
+
+
+# Class on Sep 17
+ - Presenting MP1 results by the representatives of each group for
+   entire class
+   - the presentations will go in group order (the representative
+   from the first group, the second group...)
+ - start work on project proposal  
+
+# Class on Sep 12
+ - Presenting MP1 results in the assigned 17 groups (see below)
+ - if you can can not attend disuss options on [discord](https://discord.gg/pWtqPT5WaF)
+
+# Class on Sep 10
+ - Still 3 MP1 forks missing!
+ - Class(final) project boasters
+ - Finalize class project assignments
+ - Continue work on on MP1
+
 # Class on Sep 5
  - Work on MP1, including discussing with your assigned peer
  - Make sure you have
@@ -11,26 +45,24 @@
  - Boasters for class project
  - World of Code dataset
 
-# Groups for MP1
-
-
+# 17 Groups for MP1
 1. harshvar mzg857 rking61 vgopu cwoodfil jleuciu1 
-1. aking100 amcclu13 ckornega dhodge12 jaugust4 
-1. san6 cvy221 snidiff1 sdasari7 slavey 
-1. awarden9 jburns46 ehechmer glee30 zyr546 amarlow6 
-1. edayney cstefani npatton4 ccotturo jchoi38 dmoffit1 
-1. lscott32 bmaples6 cwalsh25 mdv623 calle102 sgray38 
-1. pmasani tvillarr dpate139 nvanflee thatngu1 aweis3 
-1. mherna21 smoparth monim mwebb51 wwinslad 
-1. ygaikwad dferrer1 aroman vbroda bmilstea emaness 
-1. kchmayss ibhandar jtayl219 glapham mkelle37 
-1. ccanonac fgholamr pmoore34 btolson1 jmuncy2 cwitt8 
-1. pkx959 spatil12 gpatel8 jkutbay marifova 
-1. mmccor23 dfranke2 ddelrosa ezhao1 yarddoga 
-1. alecfowl ncoffey3 mmarcu10 tcatunca wduff 
-1. knguye34 rlin8 rfranqui yhg461 dwang58 fchernow 
-1. jnd547 bfitzpa8 lhunte21 jclar166 hchen73 
-1. jhenley9 ehead3 sbandar1 amuell11 jkenne60
+2. aking100 amcclu13 ckornega dhodge12 jaugust4 
+3. san6 cvy221 snidiff1 sdasari7 slavey 
+4. awarden9 jburns46 ehechmer glee30 zyr546 amarlow6 
+5. edayney cstefani npatton4 ccotturo jchoi38 dmoffit1 
+6. lscott32 bmaples6 cwalsh25 mdv623 calle102 sgray38 
+7. pmasani tvillarr dpate139 nvanflee thatngu1 aweis3 
+8. mherna21 smoparth monim mwebb51 wwinslad 
+9. ygaikwad dferrer1 aroman vbroda bmilstea emaness 
+10. kchmayss ibhandar jtayl219 glapham mkelle37 
+11. ccanonac fgholamr pmoore34 btolson1 jmuncy2 cwitt8 
+12. pkx959 spatil12 gpatel8 jkutbay marifova 
+13. mmccor23 dfranke2 ddelrosa ezhao1 yarddoga 
+14. alecfowl ncoffey3 mmarcu10 tcatunca wduff 
+15. knguye34 rlin8 rfranqui yhg461 dwang58 fchernow 
+16. jnd547 bfitzpa8 lhunte21 jclar166 hchen73 
+17. jhenley9 ehead3 sbandar1 amuell11 jkenne60
 
 # Class on Aug 29
  - See the simple [text analysis](https://github.com/fdac24/students/blob/master/TeamingAnalysis.ipynb) of your descriptions
@@ -82,7 +114,7 @@
 
    - Join from dial-in phone line: (Note: these are NOT toll-free numbers); Dial: +1 646 558 8656 or +1 408 638 0968  Meeting ID: 276 644 8345;  Participant ID: Shown after joining the meeting; International numbers available: https://tennessee.zoom.us/zoomconference?m=leg4C6yjhpfGHE-_Q9EYRNHXCUMBC-2T
 
- - Join the Discord server from this [link]() and follow the instructions
+ - Join the Discord server from this [link](https://discord.gg/pWtqPT5WaF) and follow the instructions
 
 
 # Syllabus for "Fundamentals of Digital Archeology"

@@ -48,7 +48,7 @@
 # 17 Groups for MP1
 1. harshvar mzg857 rking61 vgopu cwoodfil jleuciu1 
 2. aking100 amcclu13 ckornega dhodge12 jaugust4 
-3. san6 cvy221 snidiff1 sdasari7 slavey 
+3. san6 cvy221 snidiff1 sdasari7 slavey    sshres25
 4. awarden9 jburns46 ehechmer glee30 zyr546 amarlow6 
 5. edayney cstefani npatton4 ccotturo jchoi38 dmoffit1 
 6. lscott32 bmaples6 cwalsh25 mdv623 calle102 sgray38 

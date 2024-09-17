@@ -20,6 +20,9 @@
    entire class
    - the presentations will go in group order (the representative
    from the first group, the second group...)
+    - G6 - bmaples6
+    - G7 - dpate139
+    - G12 - bfitzpa8/tullyfitz
  - start work on project proposal  
 
 # Class on Sep 12

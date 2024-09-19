@@ -17,6 +17,7 @@
 # Class on Sep 19
  - Data discovery
  - Data storage
+ - Cloud computing
 
 # Class on Sep 17
  - Presenting MP1 results by the representatives of each group for

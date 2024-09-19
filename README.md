@@ -24,14 +24,14 @@
    entire class
    - the presentations will go in group order (the representative
    from the first group, the second group...)
-    - G1 - 
-    - G2 -  jaugust4
+    - G1 - rking61
+    - G2 - jaugust4
     - G3 - slavey
     - G4 - Zephrius
     - G5 - edayney
     - G6 - bmaples6
     - G7 - dpate139
-    - G8 -  mherna21
+    - G8 - mherna21
     - G9 - aroman01
     - G10 - 
     - G11 - btolson1

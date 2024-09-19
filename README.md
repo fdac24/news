@@ -33,13 +33,13 @@
     - G7 - dpate139
     - G8 -  mherna21
     - G9 - aroman01
-    - G10 - btolson1
-    - G11 - 
-    - G12 - bfitzpa8/tullyfitz
+    - G10 - 
+    - G11 - btolson1
+    - G12 - 
     - G13 - mmccor23
     - G14 - tcatunca
     - G15 - rfranqui
-    - G16 - 
+    - G16 - bfitzpa8/tullyfitz
     - G17 - jhenley9
  - start work on project proposal  
 

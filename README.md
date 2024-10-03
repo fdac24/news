@@ -1,8 +1,14 @@
-# Class on Oct 7 - Work on Final Project
+# Class on Oct 15
+  - Introducing MP3
 
-# Class on Oct 5 - Spring Break
+# Class on Oct 10
+  - Work on Final Project (no lecture)
+  - MP2 is due
+
+# Class on Oct 8 - Spring Break
 
 # Class on Oct 3
+ - Introduced [MP2](https://github.com/fdac24/MP2/blob/master/README.md) 
  - Finish FP Proposal, [see instructions](https://github.com/fdac24/FinalProjectPitches/blob/master/README.md)
 
 # Class on Oct 1

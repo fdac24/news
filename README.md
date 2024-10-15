@@ -1,5 +1,8 @@
+# Class on Oct 17
+  - Introduce MP3
+
 # Class on Oct 15
-  - Introducing MP3
+  - Discuss MP2
 
 # Class on Oct 10
   - Work on Final Project (no lecture)

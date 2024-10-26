@@ -1,10 +1,12 @@
 
+# Class on Oct 28
+  - MP3 (scraping and parsing assignment)
+
 # Class on Oct 22, 24
-  - work on final projects
+  - Work on final projects
 
 # Class on Oct 17
   - Engineering day (no class)
-  - MP3 will be introduced on Oct 22
     
 # Class on Oct 15
   - Discuss MP2

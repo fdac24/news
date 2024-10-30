@@ -1,6 +1,18 @@
 # Class on Oct 30
   - Finish status reports for the final projects (that have not reported on Oct 28) 
   - [MP3](https://github.com/fdac24/MP3/blob/master/README.md)  - followup questions
+  - Assignmemnt weights in the overal score
+       - Prelim - 1
+       - MP1    - 8
+       - MP2    - 8
+       - MP3    - 12
+       - MP4    - 8
+       - MP5    - 8
+       - Class participation - 10
+       - Final Project  - 45
+         - Proposal        -  15
+         - Presentation    -  10
+         - Final Report    -  20 
     
 # Class on Oct 28
   - MP3 (scraping and parsing assignment)

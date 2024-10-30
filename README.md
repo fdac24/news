@@ -1,6 +1,6 @@
 # Class on Oct 30
   - Finish status reports for the final projects (that have not reported on Oct 28) 
-  - MP3 - followup questions
+  - [MP3](https://github.com/fdac24/MP3/blob/master/README.md)  - followup questions
     
 # Class on Oct 28
   - MP3 (scraping and parsing assignment)

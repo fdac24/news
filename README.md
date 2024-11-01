@@ -1,3 +1,15 @@
+# Nov 21, 26, Dec 3
+  - presentations for the final project
+
+# Class on Nov 5
+  - officially election day with no classes
+  - MP3, as a result, is due on Nov 6
+  - MP4 will be described
+
+# Class on Nov 3
+  - work on finala project
+  - work on MP3 (due on Nov 6)
+
 # Class on Oct 30
   - Finish status reports for the final projects (that have not reported on Oct 28) 
   - [MP3](https://github.com/fdac24/MP3/blob/master/README.md)  - followup questions

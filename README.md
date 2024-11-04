@@ -1,10 +1,12 @@
 # Nov 21, 26, Dec 3
   - presentations for the final project
 
+# Class on Nov 7
+  - MP4 will be described
+
 # Class on Nov 5
   - officially election day with no classes
   - MP3, as a result, is due on Nov 6
-  - MP4 will be described
 
 # Class on Nov 3
   - work on finala project

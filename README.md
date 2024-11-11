@@ -4,11 +4,11 @@
 # Class on Nov 12
   - MP4 is now finalized
   - MP4 is due on Nov 19
-  - If github complains about the size of output from MP3 or LFS charges, please put the .json.gz  and your python file on [HGF dataset MP3](https://huggingface.co/datasets/fdac24/MP3) then delete your fork
+  - If github complains about the size of output from MP3 or LFS charges, please put the MP3/output/netid.json.gz  and your python file on [HGF dataset MP3](https://huggingface.co/datasets/fdac24/MP3) then delete your fork
     
 # Class on Nov 7
   - MP4 will be described
-  - If github complains about the size of output from MP3, please put the .json.gz file your **python file on** on [HGF dataset MP3](https://huggingface.co/datasets/fdac24/MP3)
+  - If github complains about the size of output from MP3, please put the MP3/output/netid.json.gz file your **python file on** on [HGF dataset MP3](https://huggingface.co/datasets/fdac24/MP3)
 
 # Class on Nov 5
   - officially election day with no classes

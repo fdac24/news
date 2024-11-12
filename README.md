@@ -1,3 +1,13 @@
+# Final Project Reports (Due Dec 5)
+  Similar to proposals, but note additional sections:
+  - Objective (research question)
+  - Data that was used: how obtained, how processed, integrated, and validated
+  - What models or algorithms were used
+  - Results: A description of the results
+  - Primary issues encountered during the project
+  - Future work: ideas generated, improvements that would make sense, etc
+  - Org chart: rough timeline and responsibilities for each member
+    
 # Nov 21, 26, Dec 3
   - presentations for the final project
 

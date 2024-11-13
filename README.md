@@ -11,6 +11,9 @@
 # Nov 21, 26, Dec 3
   - presentations for the final project
 
+# Missing/With errors MP3
+  - https://huggingface.co/datasets/fdac24/MP3/blob/main/README.md
+
 # Class on Nov 12
   - MP4 is now finalized
   - MP4 is due on Nov 19

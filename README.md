@@ -7,12 +7,33 @@
   - Primary issues encountered during the project
   - Future work: ideas generated, improvements that would make sense, etc
   - Org chart: rough timeline and responsibilities for each member
+
+# Dec 3
+  - Tetris Assistant: Sage Gray, Natalie Harris, Cam Witt, Jackson Burns
+  - DataMiningtheIPL: Dasari Sai Deepika, Shivaji Moparthy, Yashraj Gaikwad
+  - body-building-builder: Ryan Franqui, Anthony Roman, Skye Nidiffer
+  - Countries in the News: Faith Chernowski, Harshvardhan, Colin Canonaco, Jeremiah Augustine
+  - Heart Disease Detection: Mikayla McCormack, Chase Woodfill, Tully Fitzpatrick, Jayden Leuciuc, Devanshi Patel
+  - SportsStats: Ghanshyam Patel, John Kutbay, Eric Zhao, Dorothy Wang, Malika Arifova
+  - Auto Price Analyst: Caleb Kornegay, Aaron King, Cody Allen, and Chase Walsh
+  - Flickpedia: Shashank Bandaru, Jason Choi, Ann McClure, Isha Bhandari, Nayana Patil, Pooja Masani, Justin Henley
+  - cs_job_trends
+ 
+# Nov 26
+  - Song Keys: Ryan Peruski, Michael Villareal, Maria Hernandez, Jonathan Tran
+  - Recipe Ingredients Analysis: Diego Ferrer, Seungwoo An, Jackson Muncy
     
-# Nov 21, 26, Dec 3
-  - presentations for the final project
+# Nov 21
+  - Fantasy Predictions: Fort Hunter, Vincent Broda, Austin Smith, Dillon Frankenstein
+
 
 # Missing/With errors MP3
   - https://huggingface.co/datasets/fdac24/MP3/blob/main/README.md
+
+
+# Class on Nov 14
+  - Introducing MP5
+  - Bugs in MP3/4
 
 # Class on Nov 12
   - MP4 is now finalized

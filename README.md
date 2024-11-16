@@ -36,7 +36,7 @@
 
 # Still missing/with errors MP3
   - https://huggingface.co/datasets/fdac24/MP3/blob/main/README.md
-
+  - Please use this [notebook](https://github.com/fdac24/MP4/blob/main/MP34Check.ipynb) to check if your MP3-4 are correct
 
 # Class on Nov 14
   - Introducing MP5

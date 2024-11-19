@@ -33,6 +33,7 @@
 # Nov 21
   - Fantasy Predictions: Fort Hunter, Vincent Broda, Austin Smith, Dillon Frankenstein
   - Tune Tweakers: Alex Warden, Margaret Kelley, Ethan Maness, Yaren Dogan
+  - Price Alert: Griffin Lee, Braden Hechmer, Eli Dayney, Matthew Webb
 
 
 # Still missing/with errors MP3

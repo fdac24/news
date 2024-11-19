@@ -40,9 +40,16 @@
   - https://huggingface.co/datasets/fdac24/MP3/blob/main/README.md
   - Please use this [notebook](https://github.com/fdac24/MP4/blob/main/MP34Check.ipynb) to check if your MP3-4 are correct
 
+# Class on Nov 19
+  - Introducing MP5
+  - Bugs in MP3/4
+
+
 # Class on Nov 14
   - Introducing MP5
   - Bugs in MP3/4
+  - Vector databases
+  - Logistic regression
 
 # Class on Nov 12
   - MP4 is now finalized

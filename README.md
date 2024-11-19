@@ -43,13 +43,13 @@
 # Class on Nov 19
   - Introducing MP5
   - Bugs in MP3/4
-
+  - Vector databases
+  - Logistic regression
 
 # Class on Nov 14
   - Introducing MP5
   - Bugs in MP3/4
-  - Vector databases
-  - Logistic regression
+
 
 # Class on Nov 12
   - MP4 is now finalized

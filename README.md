@@ -39,12 +39,15 @@
   - Auto Price Analyst: Caleb Kornegay, Aaron King, Cody Allen, and Chase Walsh
   - Closing remarks on the course
 
+# Still missing/with errors MP4
+  - https://huggingface.co/datasets/fdac24/MP4/blob/main/README.md
+
 # Still missing/with errors MP3
   - https://huggingface.co/datasets/fdac24/MP3/blob/main/README.md
   - Please use this [notebook](https://github.com/fdac24/MP4/blob/main/MP34Check.ipynb) to check if your MP3-4 are correct
 
 # Class on Nov 19
-  - Introducing MP5
+  - Introducing MP5: Due Dec 3
   - Bugs in MP3/4
   - Vector databases
   - Logistic regression

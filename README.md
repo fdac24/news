@@ -8,18 +8,17 @@
   - Future work: ideas generated, improvements that would make sense, etc
   - Org chart: rough timeline and responsibilities for each member
 
-# Dec 3: Full
+# Dec 3: Full (<8min presentation + questions)
   - Tetris Assistant: Sage Gray, Natalie Harris, Cam Witt, Jackson Burns
   - DataMiningtheIPL: Dasari Sai Deepika, Shivaji Moparthy, Yashraj Gaikwad
   - body-building-builder: Ryan Franqui, Anthony Roman, Skye Nidiffer
   - Countries in the News: Faith Chernowski, Harshvardhan, Colin Canonaco, Jeremiah Augustine
   - Heart Disease Detection: Mikayla McCormack, Chase Woodfill, Tully Fitzpatrick, Jayden Leuciuc, Devanshi Patel
   - SportsStats: Ghanshyam Patel, John Kutbay, Eric Zhao, Dorothy Wang, Malika Arifova
-  - Auto Price Analyst: Caleb Kornegay, Aaron King, Cody Allen, and Chase Walsh
   - Flickpedia: Shashank Bandaru, Jason Choi, Ann McClure, Isha Bhandari, Nayana Patil, Pooja Masani, Justin Henley
   - cs_job_trends: Casey Stefanick, Brien Tolson, Dylan Delrosa, Brycen Hodges, Kush Patel
  
-# Nov 26: Full
+# Nov 26: Full (<8min presentation + questions)
   - Song Keys: Ryan Peruski, Michael Villareal, Maria Hernandez, Jonathan Tran
   - Recipe Ingredients Analysis: Diego Ferrer, Seungwoo An, Jackson Muncy
   - App Profile: Kien Nguyen, Nolan Coffey, Tyler Catuncan, William Duff
@@ -34,7 +33,11 @@
   - Fantasy Predictions: Fort Hunter, Vincent Broda, Austin Smith, Dillon Frankenstein
   - Tune Tweakers: Alex Warden, Margaret Kelley, Ethan Maness, Yaren Dogan
   - Price Alert: Griffin Lee, Braden Hechmer, Eli Dayney, Matthew Webb
+  - Closing remarks on the course
 
+# Nov 21
+  - Auto Price Analyst: Caleb Kornegay, Aaron King, Cody Allen, and Chase Walsh
+  - Closing remarks on the course
 
 # Still missing/with errors MP3
   - https://huggingface.co/datasets/fdac24/MP3/blob/main/README.md

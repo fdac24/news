@@ -35,7 +35,7 @@
   - Price Alert: Griffin Lee, Braden Hechmer, Eli Dayney, Matthew Webb
   - Auto Price Analyst: Caleb Kornegay, Aaron King, Cody Allen, and Chase Walsh
   - Knox Crime Predictions: Noah Van Fleet
-  - Closing remarks on the course
+  - [Closing remarks on the course](https://github.com/fdac24/lectures/blob/master/lookBack.pdf)
 
 # Still missing/with errors MP4
   - https://huggingface.co/datasets/fdac24/MP4/blob/main/README.md

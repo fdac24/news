@@ -28,13 +28,14 @@
   - NFL Predictor: Alex Fowler, Joseph Taylor, Nolan Patton
   - DDoS Detection: William Winslade, Logan Scott, Katie Moffit, Ethan Head, Md Saif Hassan Onim, Anna Weis
   - medical school inequity analysis: Luke McCombs ...
+  - Knox Crime Predictions: Noah Van Fleet
     
 # Nov 21
   - Fantasy Predictions: Fort Hunter, Vincent Broda, Austin Smith, Dillon Frankenstein
   - Tune Tweakers: Alex Warden, Margaret Kelley, Ethan Maness, Yaren Dogan
   - Price Alert: Griffin Lee, Braden Hechmer, Eli Dayney, Matthew Webb
   - Auto Price Analyst: Caleb Kornegay, Aaron King, Cody Allen, and Chase Walsh
-  - Knox Crime Predictions: Noah Van Fleet
+  - twitter-sentiment-analysis: Venkat Gopu
   - [Closing remarks on the course](https://github.com/fdac24/lectures/blob/master/lookBack.pdf)
 
 # Still missing/with errors MP4

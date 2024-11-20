@@ -33,10 +33,8 @@
   - Fantasy Predictions: Fort Hunter, Vincent Broda, Austin Smith, Dillon Frankenstein
   - Tune Tweakers: Alex Warden, Margaret Kelley, Ethan Maness, Yaren Dogan
   - Price Alert: Griffin Lee, Braden Hechmer, Eli Dayney, Matthew Webb
-  - Closing remarks on the course
-
-# Nov 21
   - Auto Price Analyst: Caleb Kornegay, Aaron King, Cody Allen, and Chase Walsh
+  - Knox Crime Predictions: Noah Van Fleet
   - Closing remarks on the course
 
 # Still missing/with errors MP4

@@ -27,10 +27,10 @@
   - Car Compare: Gabe Lapham, Jonathan Clark, Faithful Odoi, Rob King
   - NFL Predictor: Alex Fowler, Joseph Taylor, Nolan Patton
   - DDoS Detection: William Winslade, Logan Scott, Katie Moffit, Ethan Head, Md Saif Hassan Onim, Anna Weis
-  - medical school inequity analysis: Luke McCombs ...
-  - Knox Crime Predictions: Noah Van Fleet
+  - medical school inequity analysis: Brent Maples, Max Marcum, and Randy Lin
+  - Knox Crime Predictions: Noah Van Fleet and Connor Cotturone
     
-# Nov 21
+# Nov 21 (<8min presentation + questions)
   - Fantasy Predictions: Fort Hunter, Vincent Broda, Austin Smith, Dillon Frankenstein
   - Tune Tweakers: Alex Warden, Margaret Kelley, Ethan Maness, Yaren Dogan
   - Price Alert: Griffin Lee, Braden Hechmer, Eli Dayney, Matthew Webb

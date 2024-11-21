@@ -36,6 +36,7 @@
   - Price Alert: Griffin Lee, Braden Hechmer, Eli Dayney, Matthew Webb
   - Auto Price Analyst: Caleb Kornegay, Aaron King, Cody Allen, and Chase Walsh
   - twitter-sentiment-analysis: Venkat Gopu
+  - StockBot: Blake Milstead and Turner Heath
   - [Closing remarks on the course](https://github.com/fdac24/lectures/blob/master/lookBack.pdf)
 
 # Still missing/with errors MP4

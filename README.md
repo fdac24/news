@@ -8,7 +8,7 @@
   - Future work: ideas generated, improvements that would make sense, etc
   - Org chart: rough timeline and responsibilities for each member
 
-# Dec 3: Full (<8min presentation + questions)
+# Dec 3: Full (<7min presentation + questions)
   - Tetris Assistant: Sage Gray, Natalie Harris, Cam Witt, Jackson Burns
   - DataMiningtheIPL: Dasari Sai Deepika, Shivaji Moparthy, Yashraj Gaikwad
   - body-building-builder: Ryan Franqui, Anthony Roman, Skye Nidiffer
@@ -17,6 +17,10 @@
   - SportsStats: Ghanshyam Patel, John Kutbay, Eric Zhao, Dorothy Wang, Malika Arifova
   - Flickpedia: Shashank Bandaru, Jason Choi, Ann McClure, Isha Bhandari, Nayana Patil, Pooja Masani, Justin Henley
   - cs_job_trends: Casey Stefanick, Brien Tolson, Dylan Delrosa, Brycen Hodges, Kush Patel
+  - 
+  - NFL Predictor: Alex Fowler, Joseph Taylor, Nolan Patton
+  - Knox Crime Predictions: Noah Van Fleet and Connor Cotturone
+  - Impacts of Remote Work on Physical and Mental Health : Shayana Shrestha
  
 # Nov 26: Full (<8min presentation + questions)
   - Song Keys: Ryan Peruski, Michael Villareal, Maria Hernandez, Jonathan Tran
@@ -24,12 +28,9 @@
   - App Profile: Kien Nguyen, Nolan Coffey, Tyler Catuncan, William Duff
   - Generateed-Research: Jake Marlow, Thanya Nguyen, Sam Lavey, Jeff Chen
   - Sales Analysis: Farzin Gholamrezae
-  - Impacts of Remote Work on Physical and Mental Health : Shayana Shrestha
   - Car Compare: Gabe Lapham, Jonathan Clark, Faithful Odoi, Rob King
-  - NFL Predictor: Alex Fowler, Joseph Taylor, Nolan Patton
   - DDoS Detection: William Winslade, Logan Scott, Katie Moffit, Ethan Head, Md Saif Hassan Onim, Anna Weis
   - medical school inequity analysis: Brent Maples, Max Marcum, and Randy Lin
-  - Knox Crime Predictions: Noah Van Fleet and Connor Cotturone
     
 # Nov 21 (<8min presentation + questions)
   - Fantasy Predictions: Fort Hunter, Vincent Broda, Austin Smith, Dillon Frankenstein

@@ -24,6 +24,7 @@
   - App Profile: Kien Nguyen, Nolan Coffey, Tyler Catuncan, William Duff
   - Generateed-Research: Jake Marlow, Thanya Nguyen, Sam Lavey, Jeff Chen
   - Sales Analysis: Farzin Gholamrezae
+  - Impacts of Remote Work on Physical and Mental Health : Shayana Shrestha
   - Car Compare: Gabe Lapham, Jonathan Clark, Faithful Odoi, Rob King
   - NFL Predictor: Alex Fowler, Joseph Taylor, Nolan Patton
   - DDoS Detection: William Winslade, Logan Scott, Katie Moffit, Ethan Head, Md Saif Hassan Onim, Anna Weis

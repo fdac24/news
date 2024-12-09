@@ -21,6 +21,7 @@
   - NFL Predictor: Alex Fowler, Joseph Taylor, Nolan Patton
   - Knox Crime Predictions: Noah Van Fleet and Connor Cotturone
   - Impacts of Remote Work on Physical and Mental Health : Shayana Shrestha
+  - Impacts from Major Events on U.S Vessel Traffic: Peyton Moore and Andrew Mueller
  
 # Nov 26: Full (<8min presentation + questions)
   - Song Keys: Ryan Peruski, Michael Villareal, Maria Hernandez, Jonathan Tran
